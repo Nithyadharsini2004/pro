@@ -53,7 +53,7 @@ default:
 echo “<p style=’color: red;’>Invalid transaction type!</p>”;
 }
 }
-echo “<p>Final Balance: $iBalance</p>”;
+echo "<p>Final Balance: $iBalance</p>";
 }
 ?>
 </body>
